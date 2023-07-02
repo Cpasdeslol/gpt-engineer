@@ -32,7 +32,7 @@ def main(
         temperature=temperature,
     )
 
-    input_path = Path(project_path).absolute()
+    input_path = Path(project_path).resolve()
     memory_path = input_path / "memory"
     workspace_path = input_path / "workspace"
     archive_path = input_path / "archive"
