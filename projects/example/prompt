@@ -1,2 +1,41 @@
 We are writing snake in python. MVC components split in separate files. Keyboard control.
 
+"""
+# Script Python pour prédire les mouvements du marché en utilisant des données de différentes sources.
+
+# Étape 1: Collecte des données
+import requests  # Importer les bibliothèques nécessaires
+# TODO: Utilisez une API ou des techniques de web scraping pour collecter des données historiques du marché.
+# TODO: Spécifiez la plage de temps et la fréquence de la collecte de données.
+# TODO: Enregistrez les données collectées dans un format approprié, tel que CSV ou JSON.
+
+# Étape 2: Stockage des données
+# TODO: Créez un répertoire ou une base de données pour stocker les données collectées.
+# TODO: Organisez les données en fonction des instruments financiers et de la plage de temps.
+
+# Étape 3: Nettoyage et prétraitement des données
+# TODO: Chargez les données collectées à partir du stockage.
+# TODO: Gérez les valeurs manquantes en les imputant ou en supprimant les points de données correspondants.
+# TODO: Identifiez et gérez les valeurs aberrantes ou les anomalies dans les données.
+
+# Étape 4: Combinaison des données
+# TODO: Si nécessaire, combinez les données du marché collectées avec d'autres ensembles de données pertinents.
+# TODO: Assurez-vous que les données combinées sont correctement alignées en fonction des horodatages.
+
+# Étape 5: Construction des fonctionnalités
+# TODO: Sur la base des connaissances du domaine ou de l'analyse des données, construisez des fonctionnalités supplémentaires.
+
+# Étape 6: Division des données
+# TODO: Divisez les données prétraitées en ensembles d'entraînement, de validation et de test.
+
+# Étape 7: Entraînement du modèle
+# TODO: Choisissez un algorithme d'apprentissage automatique approprié pour prédire les mouvements du marché.
+# TODO: Entraînez le modèle sélectionné en utilisant l'ensemble d'entraînement.
+# TODO: Réglez les hyperparamètres du modèle pour optimiser ses performances.
+
+# Étape 8: Évaluation du modèle
+# TODO: Évaluez les performances du modèle sur l'ensemble de test pour estimer son exactitude prédictive.
+
+# Étape 9: Génération du code
+# TODO: Générez du code qui automatise tout le processus de collecte de données, de stockage, de nettoyage, de prétraitement, de construction de fonctionnalités, de division des données, d'entraînement du modèle et d'évaluation.
+"""
